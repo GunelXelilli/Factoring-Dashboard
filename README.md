@@ -30,7 +30,7 @@ This Power BI dashboard gives clear insights into a factoring portfolio, includi
 Shows total open receivables and how much of it is overdue vs. not yet due, split by client.
 
 <p align="center">
-  <img src="Factoring1page.png" width="800">
+  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/FCpage1.png" width="800">
 </p>
 
 ---
