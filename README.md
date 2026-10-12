@@ -25,9 +25,9 @@ This Power BI dashboard gives clear insights into a factoring portfolio, includi
 
 ---
 
-## 🔸 Page 1 — Open Receivables
+## 🔸 Page 1 — Contracts
 
-Shows total open receivables and how much of it is overdue vs. not yet due, split by client.
+Shows the contract portfolio: count, clients, limits, factoring types.
 
 <p align="center">
   <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/FCpage1.png" width="800">
@@ -35,27 +35,18 @@ Shows total open receivables and how much of it is overdue vs. not yet due, spli
 
 ---
 
-## 🔸 Page 2 — Debtors / Ageing
 
-Shows who owes the most and how old the debt is.
+## 🔸 Page 2 — Open Receivables
 
-<p align="center">
-  <img src="Factoring2page.png" width="800">
-</p>
-
----
-
-## 🔸 Page 3 — Delays
-
-Shows overdue amounts and average days late by client and contract.
+Shows total open receivables and how much of it is overdue vs. not yet due, split by client.
 
 <p align="center">
-  <img src="Factoring3page.png" width="800">
+  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/FCpage1.png" width="800">
 </p>
 
----
-
-## 🔸 Page 4 — Payments
+ ---
+ 
+## 🔸 Page 3 — Payments
 
 Shows payments over time and the share paid on time vs. late.
 
@@ -65,12 +56,22 @@ Shows payments over time and the share paid on time vs. late.
 
 ---
 
-## 🔸 Page 5 — Contracts
+## 🔸 Page 4 — Delays
 
-Shows the contract portfolio: count, clients, limits, factoring types.
+Shows overdue amounts and average days late by client and contract.
 
 <p align="center">
-  <img src="Factoring5page.png" width="800">
+  <img src="Factoring3page.png" width="800">
+</p>
+
+---
+
+## 🔸 Page 5 — Debtors / Ageing
+
+Shows who owes the most and how old the debt is.
+
+<p align="center">
+  <img src="Factoring2page.png" width="800">
 </p>
 
 ---
