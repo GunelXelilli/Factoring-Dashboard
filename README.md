@@ -16,12 +16,11 @@ This Power BI dashboard gives clear insights into a factoring portfolio, includi
 ---
 
 ## 🌟 Pages Overview
-
-- **Page 1 — Open Receivables**: Open, overdue and not-yet-due amounts by client.
-- **Page 2 — Debtors / Ageing**: Number of debtors, largest debtor, ageing buckets (0–30, 31–60, 61–90, 90+ days).
-- **Page 3 — Delays**: Overdue amounts by client and contract.
-- **Page 4 — Payments**: Total paid, on-time payment %, payments by month and status.
-- **Page 5 — Contracts**: Number of contracts and clients, total limit, contract list.
+- **Page 1 — Contracts**: Number of contracts and clients, total limit, contract list.
+- **Page 2 — Open Receivables**: Open, overdue and not-yet-due amounts by client.
+- **Page 3 — Payments**: Total paid, on-time payment %, payments by month and status.
+- **Page 4 — Delays**: Overdue amounts by client and contract.
+- **Page 5 — Debtors / Ageing**: Number of debtors, largest debtor, ageing buckets (0–30, 31–60, 61–90, 90+ days).
 
 ---
 
