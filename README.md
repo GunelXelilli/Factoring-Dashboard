@@ -41,7 +41,7 @@ Shows the contract portfolio: count, clients, limits, factoring types.
 Shows total open receivables and how much of it is overdue vs. not yet due, split by client.
 
 <p align="center">
-  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/FCpage1.png" width="800">
+  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/Fcpage2.png" width="800">
 </p>
 
  ---
