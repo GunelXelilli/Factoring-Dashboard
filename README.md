@@ -71,7 +71,7 @@ Shows overdue amounts and average days late by client and contract.
 Shows who owes the most and how old the debt is.
 
 <p align="center">
-  <img src="Factoring2page.png" width="800">
+  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/Fcpage5.png" width="800">
 </p>
 
 ---
