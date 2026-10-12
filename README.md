@@ -51,7 +51,7 @@ Shows total open receivables and how much of it is overdue vs. not yet due, spli
 Shows payments over time and the share paid on time vs. late.
 
 <p align="center">
-  <img src="Factoring4page.png" width="800">
+  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/Fcpage3.png" width="800">
 </p>
 
 ---
