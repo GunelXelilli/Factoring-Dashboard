@@ -61,7 +61,7 @@ Shows payments over time and the share paid on time vs. late.
 Shows overdue amounts and average days late by client and contract.
 
 <p align="center">
-  <img src="Factoring3page.png" width="800">
+  <img src="https://github.com/GunelXelilli/Factoring-Dashboard/blob/main/Fcpage4.png" width="800">
 </p>
 
 ---
